@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Company Service API
 
 Bu proje, modern .NET 9.0 teknolojileri kullanılarak geliştirilmiş kapsamlı bir şirket yönetim API'sidir. Proje sürecinde Entity Framework Core ile veritabanı entegrasyonu, Redis ile yüksek performanslı önbellekleme sistemi, dış API entegrasyonu (randomuser.me), API Key tabanlı güvenlik sistemi, Prometheus ile metrik toplama, Docker containerization ve kapsamlı loglama sistemi implementasyonu gerçekleştirilmiştir.
@@ -235,3 +236,6 @@ CompanyService/
 5. Gerekirse sağlık kontrollerini güncelleyin
 6. İzleme için metrikler ekleyin
 
+=======
+# deneme
+>>>>>>> ed381e3386c56b0ad0e7f5bfaf467f29a54bb933
